@@ -1,5 +1,6 @@
-<header>
-
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
